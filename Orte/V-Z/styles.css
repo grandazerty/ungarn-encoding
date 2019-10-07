@@ -1,0 +1,168 @@
+P {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H1 {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H2 {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H3 {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H4 {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+UL {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+OL {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+LI {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+DIV {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+DIR {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TH {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+DT {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+DD {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+ADDRESS {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+BLOCKQUOTE {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+NOBR {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+B {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+I {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+INPUT {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+BODY {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f4fbb7
+}
+SELECT.color {
+	FONT-SIZE: 12px; COLOR: #614d1e; HEIGHT: 20px
+}
+.text {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.textkl {
+	FONT-SIZE: 10px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.textb {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.blau {
+	BACKGROUND-COLOR: #098498
+}
+.gruen {
+	BACKGROUND-COLOR: #098469
+}
+.hellbg {
+	BACKGROUND-COLOR: #d8c974
+}
+.dunkelbg {
+	BACKGROUND-COLOR: #a39339
+}
+.tablecolor {
+	FONT-SIZE: 12px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fcf9dc
+}
+A.norm {
+	FONT-SIZE: 12px; COLOR: #e27e08; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.norm:link {
+	FONT-SIZE: 12px; COLOR: #e27e08; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.norm:active {
+	FONT-SIZE: 12px; COLOR: #e27e08; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.norm:visited {
+	FONT-SIZE: 12px; COLOR: #e27e08; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.norm:hover {
+	FONT-SIZE: 12px; COLOR: #ac6818; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.menu {
+	FONT-SIZE: 12px; COLOR: #1e6655; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.menu:link {
+	FONT-SIZE: 12px; COLOR: #1e6655; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.menu:active {
+	FONT-SIZE: 12px; COLOR: #1e6655; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.menu:visited {
+	FONT-SIZE: 12px; COLOR: #1e6655; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.menu:hover {
+	FONT-SIZE: 12px; COLOR: #e27e08; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.menuWare {
+	FONT-SIZE: 12px; COLOR: #9d2225; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.menuWare:link {
+	FONT-SIZE: 12px; COLOR: #9d2225; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.menuWare:active {
+	FONT-SIZE: 12px; COLOR: #9d2225; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.menuWare:visited {
+	FONT-SIZE: 12px; COLOR: #9d2225; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.menuWare:hover {
+	FONT-SIZE: 12px; COLOR: #9d2225; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A {
+	FONT-SIZE: 12px; COLOR: #e27e08; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #e27e08; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:active {
+	FONT-SIZE: 12px; COLOR: #e27e08; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #e27e08; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #e27e08; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.head1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.head2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #614d1e; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.input1 {
+	FONT-SIZE: 14px; WIDTH: 100px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.input2 {
+	FONT-SIZE: 14px; WIDTH: 200px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.wichtig {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #9d2225; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
